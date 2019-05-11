@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Калькулятор</string>
+    <string name="history_call">Ысторыйа</string>
+    <string name="history_clear">Очистить исторю</string>
+    <string name="history">Gicтория</string>
+    <string name="empty">(Няма)</string>
+    <string name="confirm_dialog">Кляти москали</string>
+    <string name="text_dialog">Видалити усё???</string>
+    <string name="yes_button">Так</string>
+    <string name="no_button">Не</string>
+    <string name="delete_success">Усё видалено!!! Слава Украини!!!</string>
+    <string name="add">vidobavyiti</string>
+    <string name="capt_sum">Суммив</string>
+    <string name="quantity">Виколичисив</string>
+    <string name="capt_avg">Сярэдинеии</string>
+</resources>

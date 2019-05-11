@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:gravity="left"
+    android:orientation="horizontal">
+
+    <CheckBox
+        android:id="@+id/checkBox"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:checked="false"
+        android:visibility="visible" />
+
+    <TextView
+        android:id="@+id/first_operand_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="5dp"
+        android:text="0"
+        android:textColor="#d21616"
+        android:textSize="30sp" />
+
+    <TextView
+        android:id="@+id/operator_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="5dp"
+        android:text="?"
+        android:textColor="@color/textColor"
+        android:textSize="30sp" />
+
+    <TextView
+        android:id="@+id/second_operand_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="5dp"
+        android:text="0"
+        android:textColor="#07cdb3"
+        android:textSize="30sp" />
+
+    <TextView
+        android:id="@+id/item_text3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="5dp"
+        android:text=" = "
+        android:textColor="@color/textColor"
+        android:textSize="30sp" />
+
+    <TextView
+        android:id="@+id/result_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="5dp"
+        android:text="0"
+        android:textColor="@android:color/holo_green_dark"
+        android:textSize="30sp" />
+
+</LinearLayout>

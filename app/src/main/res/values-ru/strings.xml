@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Калькулятор</string>
+    <string name="history_call">История операций</string>
+    <string name="history_clear">Очистить исторю</string>
+    <string name="history">История</string>
+    <string name="empty">(Нет операций)</string>
+    <string name="confirm_dialog">Удалить всё?</string>
+    <string name="text_dialog">Все данные будут потеряны!</string>
+    <string name="yes_button">Да</string>
+    <string name="no_button">Нет</string>
+    <string name="delete_success">Вся история удалена</string>
+    <string name="add">Добавить</string>
+    <string name="capt_sum">Сумма</string>
+    <string name="quantity">Количество</string>
+    <string name="capt_avg">Среднее</string>
+    <string name="avg_clear">Очистить</string>
+</resources>

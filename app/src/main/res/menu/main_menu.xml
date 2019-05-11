@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id = "@+id/open_history"
+        android:title = "@string/history_call"></item>
+    <item
+        android:id="@+id/average"
+        android:title="@string/capt_avg" />
+    <item
+        android:id="@+id/clear_history"
+        android:title="@string/history_clear" />
+</menu>

@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="history_call">History</string>
+    <string name="history_clear">Clear history</string>
+    <string name="history">History</string>
+    <string name="empty">(No elements)</string>
+    <string name="confirm_dialog">Delete all?</string>
+    <string name="text_dialog">All results will be cleared!</string>
+    <string name="yes_button">Yes</string>
+    <string name="no_button">No</string>
+    <string name="delete_success">All history deleled</string>
+    <string name="add">Add</string>
+    <string name="capt_sum">Summ</string>
+    <string name="quantity">Count</string>
+    <string name="capt_avg">Average</string>
+    <string name="avg_clear">Clear</string>
+</resources>
